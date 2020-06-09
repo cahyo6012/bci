@@ -1,0 +1,730 @@
+{
+    "!ref": "A1:I16",
+    "A1": {
+        "t": "s",
+        "v": "Rekap Data Proyek Konstruksi Tahun 2020",
+        "r": "<t>Rekap Data Proyek Konstruksi Tahun 2020</t>",
+        "h": "Rekap Data Proyek Konstruksi Tahun 2020",
+        "w": "Rekap Data Proyek Konstruksi Tahun 2020"
+    },
+    "A3": {
+        "t": "s",
+        "v": "NO",
+        "r": "<t>NO</t>",
+        "h": "NO",
+        "w": "NO"
+    },
+    "B3": {
+        "t": "s",
+        "v": "KODE KPP",
+        "r": "<t>KODE KPP</t>",
+        "h": "KODE KPP",
+        "w": "KODE KPP"
+    },
+    "C3": {
+        "t": "s",
+        "v": "NAMA KPP",
+        "r": "<t>NAMA KPP</t>",
+        "h": "NAMA KPP",
+        "w": "NAMA KPP"
+    },
+    "D3": {
+        "t": "s",
+        "v": "JUMLAH PROYEK",
+        "r": "<t>JUMLAH PROYEK</t>",
+        "h": "JUMLAH PROYEK",
+        "w": "JUMLAH PROYEK"
+    },
+    "E3": {
+        "t": "s",
+        "v": "PERUSAHAAN",
+        "r": "<t>PERUSAHAAN</t>",
+        "h": "PERUSAHAAN",
+        "w": "PERUSAHAAN"
+    },
+    "E4": {
+        "t": "s",
+        "v": "BELUM TERDAFTAR",
+        "r": "<t>BELUM TERDAFTAR</t>",
+        "h": "BELUM TERDAFTAR",
+        "w": "BELUM TERDAFTAR"
+    },
+    "F4": {
+        "t": "s",
+        "v": "TERDAFTAR",
+        "r": "<t>TERDAFTAR</t>",
+        "h": "TERDAFTAR",
+        "w": "TERDAFTAR"
+    },
+    "I4": {
+        "t": "s",
+        "v": "JUMLAH",
+        "r": "<t>JUMLAH</t>",
+        "h": "JUMLAH",
+        "w": "JUMLAH"
+    },
+    "F5": {
+        "t": "s",
+        "v": "DALAM KPP",
+        "r": "<t>DALAM KPP</t>",
+        "h": "DALAM KPP",
+        "w": "DALAM KPP"
+    },
+    "G5": {
+        "t": "s",
+        "v": "LUAR KPP",
+        "r": "<t>LUAR KPP</t>",
+        "h": "LUAR KPP",
+        "w": "LUAR KPP"
+    },
+    "H5": {
+        "t": "s",
+        "v": "JUMLAH",
+        "r": "<t>JUMLAH</t>",
+        "h": "JUMLAH",
+        "w": "JUMLAH"
+    },
+    "A6": {
+        "t": "n",
+        "v": 1,
+        "w": "1"
+    },
+    "B6": {
+        "t": "s",
+        "v": "031",
+        "r": "<t>031</t>",
+        "h": "031",
+        "w": "031"
+    },
+    "C6": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Palmerah",
+        "r": "<t>KPP Pratama Jakarta Palmerah</t>",
+        "h": "KPP Pratama Jakarta Palmerah",
+        "w": "KPP Pratama Jakarta Palmerah"
+    },
+    "D6": {
+        "t": "n",
+        "v": 237,
+        "w": "237"
+    },
+    "E6": {
+        "t": "n",
+        "v": 9,
+        "w": "9"
+    },
+    "F6": {
+        "t": "n",
+        "v": 15,
+        "w": "15"
+    },
+    "G6": {
+        "t": "n",
+        "v": 12,
+        "w": "12"
+    },
+    "H6": {
+        "t": "n",
+        "v": 27,
+        "w": "27"
+    },
+    "I6": {
+        "t": "n",
+        "v": 36,
+        "w": "36"
+    },
+    "A7": {
+        "t": "n",
+        "v": 2,
+        "w": "2"
+    },
+    "B7": {
+        "t": "s",
+        "v": "032",
+        "r": "<t>032</t>",
+        "h": "032",
+        "w": "032"
+    },
+    "C7": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Tamansari Satu",
+        "r": "<t>KPP Pratama Jakarta Tamansari Satu</t>",
+        "h": "KPP Pratama Jakarta Tamansari Satu",
+        "w": "KPP Pratama Jakarta Tamansari Satu"
+    },
+    "D7": {
+        "t": "n",
+        "v": 19,
+        "w": "19"
+    },
+    "E7": {
+        "t": "n",
+        "v": 0,
+        "w": "0"
+    },
+    "F7": {
+        "t": "n",
+        "v": 3,
+        "w": "3"
+    },
+    "G7": {
+        "t": "n",
+        "v": 0,
+        "w": "0"
+    },
+    "H7": {
+        "t": "n",
+        "v": 3,
+        "w": "3"
+    },
+    "I7": {
+        "t": "n",
+        "v": 3,
+        "w": "3"
+    },
+    "A8": {
+        "t": "n",
+        "v": 3,
+        "w": "3"
+    },
+    "B8": {
+        "t": "s",
+        "v": "033",
+        "r": "<t>033</t>",
+        "h": "033",
+        "w": "033"
+    },
+    "C8": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Tambora",
+        "r": "<t>KPP Pratama Jakarta Tambora</t>",
+        "h": "KPP Pratama Jakarta Tambora",
+        "w": "KPP Pratama Jakarta Tambora"
+    },
+    "D8": {
+        "t": "n",
+        "v": 15,
+        "w": "15"
+    },
+    "E8": {
+        "t": "n",
+        "v": 1,
+        "w": "1"
+    },
+    "F8": {
+        "t": "n",
+        "v": 2,
+        "w": "2"
+    },
+    "G8": {
+        "t": "n",
+        "v": 2,
+        "w": "2"
+    },
+    "H8": {
+        "t": "n",
+        "v": 4,
+        "w": "4"
+    },
+    "I8": {
+        "t": "n",
+        "v": 5,
+        "w": "5"
+    },
+    "A9": {
+        "t": "n",
+        "v": 4,
+        "w": "4"
+    },
+    "B9": {
+        "t": "s",
+        "v": "034",
+        "r": "<t>034</t>",
+        "h": "034",
+        "w": "034"
+    },
+    "C9": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Cengkareng",
+        "r": "<t>KPP Pratama Jakarta Cengkareng</t>",
+        "h": "KPP Pratama Jakarta Cengkareng",
+        "w": "KPP Pratama Jakarta Cengkareng"
+    },
+    "D9": {
+        "t": "n",
+        "v": 249,
+        "w": "249"
+    },
+    "E9": {
+        "t": "n",
+        "v": 3,
+        "w": "3"
+    },
+    "F9": {
+        "t": "n",
+        "v": 20,
+        "w": "20"
+    },
+    "G9": {
+        "t": "n",
+        "v": 19,
+        "w": "19"
+    },
+    "H9": {
+        "t": "n",
+        "v": 39,
+        "w": "39"
+    },
+    "I9": {
+        "t": "n",
+        "v": 42,
+        "w": "42"
+    },
+    "A10": {
+        "t": "n",
+        "v": 5,
+        "w": "5"
+    },
+    "B10": {
+        "t": "s",
+        "v": "035",
+        "r": "<t>035</t>",
+        "h": "035",
+        "w": "035"
+    },
+    "C10": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Kebon Jeruk Satu",
+        "r": "<t>KPP Pratama Jakarta Kebon Jeruk Satu</t>",
+        "h": "KPP Pratama Jakarta Kebon Jeruk Satu",
+        "w": "KPP Pratama Jakarta Kebon Jeruk Satu"
+    },
+    "D10": {
+        "t": "n",
+        "v": 250,
+        "w": "250"
+    },
+    "E10": {
+        "t": "n",
+        "v": 10,
+        "w": "10"
+    },
+    "F10": {
+        "t": "n",
+        "v": 21,
+        "w": "21"
+    },
+    "G10": {
+        "t": "n",
+        "v": 22,
+        "w": "22"
+    },
+    "H10": {
+        "t": "n",
+        "v": 33,
+        "w": "33"
+    },
+    "I10": {
+        "t": "n",
+        "v": 43,
+        "w": "43"
+    },
+    "A11": {
+        "t": "n",
+        "v": 6,
+        "w": "6"
+    },
+    "B11": {
+        "t": "s",
+        "v": "036",
+        "r": "<t>036</t>",
+        "h": "036",
+        "w": "036"
+    },
+    "C11": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Grogol Petamburan",
+        "r": "<t>KPP Pratama Jakarta Grogol Petamburan</t>",
+        "h": "KPP Pratama Jakarta Grogol Petamburan",
+        "w": "KPP Pratama Jakarta Grogol Petamburan"
+    },
+    "D11": {
+        "t": "n",
+        "v": 196,
+        "w": "196"
+    },
+    "E11": {
+        "t": "n",
+        "v": 9,
+        "w": "9"
+    },
+    "F11": {
+        "t": "n",
+        "v": 15,
+        "w": "15"
+    },
+    "G11": {
+        "t": "n",
+        "v": 16,
+        "w": "16"
+    },
+    "H11": {
+        "t": "n",
+        "v": 31,
+        "w": "31"
+    },
+    "I11": {
+        "t": "n",
+        "v": 40,
+        "w": "40"
+    },
+    "A12": {
+        "t": "n",
+        "v": 7,
+        "w": "7"
+    },
+    "B12": {
+        "t": "s",
+        "v": "037",
+        "r": "<t>037</t>",
+        "h": "037",
+        "w": "037"
+    },
+    "C12": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Tamansari Dua",
+        "r": "<t>KPP Pratama Jakarta Tamansari Dua</t>",
+        "h": "KPP Pratama Jakarta Tamansari Dua",
+        "w": "KPP Pratama Jakarta Tamansari Dua"
+    },
+    "D12": {
+        "t": "n",
+        "v": 64,
+        "w": "64"
+    },
+    "E12": {
+        "t": "n",
+        "v": 6,
+        "w": "6"
+    },
+    "F12": {
+        "t": "n",
+        "v": 5,
+        "w": "5"
+    },
+    "G12": {
+        "t": "n",
+        "v": 6,
+        "w": "6"
+    },
+    "H12": {
+        "t": "n",
+        "v": 11,
+        "w": "11"
+    },
+    "I12": {
+        "t": "n",
+        "v": 17,
+        "w": "17"
+    },
+    "A13": {
+        "t": "n",
+        "v": 8,
+        "w": "8"
+    },
+    "B13": {
+        "t": "s",
+        "v": "039",
+        "r": "<t>039</t>",
+        "h": "039",
+        "w": "039"
+    },
+    "C13": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Kebon Jeruk Dua",
+        "r": "<t>KPP Pratama Jakarta Kebon Jeruk Dua</t>",
+        "h": "KPP Pratama Jakarta Kebon Jeruk Dua",
+        "w": "KPP Pratama Jakarta Kebon Jeruk Dua"
+    },
+    "D13": {
+        "t": "n",
+        "v": 167,
+        "w": "167"
+    },
+    "E13": {
+        "t": "n",
+        "v": 10,
+        "w": "10"
+    },
+    "F13": {
+        "t": "n",
+        "v": 15,
+        "w": "15"
+    },
+    "G13": {
+        "t": "n",
+        "v": 12,
+        "w": "12"
+    },
+    "H13": {
+        "t": "n",
+        "v": 27,
+        "w": "27"
+    },
+    "I13": {
+        "t": "n",
+        "v": 37,
+        "w": "37"
+    },
+    "A14": {
+        "t": "n",
+        "v": 9,
+        "w": "9"
+    },
+    "B14": {
+        "t": "s",
+        "v": "085",
+        "r": "<t>085</t>",
+        "h": "085",
+        "w": "085"
+    },
+    "C14": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Kalideres",
+        "r": "<t>KPP Pratama Jakarta Kalideres</t>",
+        "h": "KPP Pratama Jakarta Kalideres",
+        "w": "KPP Pratama Jakarta Kalideres"
+    },
+    "D14": {
+        "t": "n",
+        "v": 94,
+        "w": "94"
+    },
+    "E14": {
+        "t": "n",
+        "v": 5,
+        "w": "5"
+    },
+    "F14": {
+        "t": "n",
+        "v": 11,
+        "w": "11"
+    },
+    "G14": {
+        "t": "n",
+        "v": 5,
+        "w": "5"
+    },
+    "H14": {
+        "t": "n",
+        "v": 16,
+        "w": "16"
+    },
+    "I14": {
+        "t": "n",
+        "v": 21,
+        "w": "21"
+    },
+    "A15": {
+        "t": "n",
+        "v": 10,
+        "w": "10"
+    },
+    "B15": {
+        "t": "s",
+        "v": "086",
+        "r": "<t>086</t>",
+        "h": "086",
+        "w": "086"
+    },
+    "C15": {
+        "t": "s",
+        "v": "KPP Pratama Jakarta Kembangan",
+        "r": "<t>KPP Pratama Jakarta Kembangan</t>",
+        "h": "KPP Pratama Jakarta Kembangan",
+        "w": "KPP Pratama Jakarta Kembangan"
+    },
+    "D15": {
+        "t": "n",
+        "v": 586,
+        "w": "586"
+    },
+    "E15": {
+        "t": "n",
+        "v": 23,
+        "w": "23"
+    },
+    "F15": {
+        "t": "n",
+        "v": 35,
+        "w": "35"
+    },
+    "G15": {
+        "t": "n",
+        "v": 41,
+        "w": "41"
+    },
+    "H15": {
+        "t": "n",
+        "v": 76,
+        "w": "76"
+    },
+    "I15": {
+        "t": "n",
+        "v": 99,
+        "w": "99"
+    },
+    "A16": {
+        "t": "s",
+        "v": "Kanwil DJP Jakarta Barat",
+        "r": "<t>Kanwil DJP Jakarta Barat</t>",
+        "h": "Kanwil DJP Jakarta Barat",
+        "w": "Kanwil DJP Jakarta Barat"
+    },
+    "D16": {
+        "t": "n",
+        "v": 1877,
+        "f": "SUM(D6:D15)",
+        "w": "1,877"
+    },
+    "E16": {
+        "t": "n",
+        "v": 76,
+        "f": "SUM(E6:E15)",
+        "w": "76"
+    },
+    "F16": {
+        "t": "n",
+        "v": 142,
+        "f": "SUM(F6:F15)",
+        "w": "142"
+    },
+    "G16": {
+        "t": "n",
+        "v": 135,
+        "f": "SUM(G6:G15)",
+        "w": "135"
+    },
+    "H16": {
+        "t": "n",
+        "v": 267,
+        "f": "SUM(H6:H15)",
+        "w": "267"
+    },
+    "I16": {
+        "t": "n",
+        "v": 343,
+        "f": "SUM(I6:I15)",
+        "w": "343"
+    },
+    "!margins": {
+        "left": 0.7,
+        "right": 0.7,
+        "top": 0.75,
+        "bottom": 0.75,
+        "header": 0.3,
+        "footer": 0.3
+    },
+    "!merges": [
+        {
+            "s": {
+                "c": 0,
+                "r": 0
+            },
+            "e": {
+                "c": 8,
+                "r": 0
+            }
+        },
+        {
+            "s": {
+                "c": 0,
+                "r": 15
+            },
+            "e": {
+                "c": 2,
+                "r": 15
+            }
+        },
+        {
+            "s": {
+                "c": 3,
+                "r": 2
+            },
+            "e": {
+                "c": 3,
+                "r": 4
+            }
+        },
+        {
+            "s": {
+                "c": 4,
+                "r": 3
+            },
+            "e": {
+                "c": 4,
+                "r": 4
+            }
+        },
+        {
+            "s": {
+                "c": 5,
+                "r": 3
+            },
+            "e": {
+                "c": 7,
+                "r": 3
+            }
+        },
+        {
+            "s": {
+                "c": 8,
+                "r": 3
+            },
+            "e": {
+                "c": 8,
+                "r": 4
+            }
+        },
+        {
+            "s": {
+                "c": 4,
+                "r": 2
+            },
+            "e": {
+                "c": 8,
+                "r": 2
+            }
+        },
+        {
+            "s": {
+                "c": 0,
+                "r": 2
+            },
+            "e": {
+                "c": 0,
+                "r": 4
+            }
+        },
+        {
+            "s": {
+                "c": 1,
+                "r": 2
+            },
+            "e": {
+                "c": 1,
+                "r": 4
+            }
+        },
+        {
+            "s": {
+                "c": 2,
+                "r": 2
+            },
+            "e": {
+                "c": 2,
+                "r": 4
+            }
+        }
+    ]
+}
